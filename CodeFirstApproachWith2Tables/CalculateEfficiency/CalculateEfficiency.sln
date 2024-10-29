@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateEfficiency", "CalculateEfficiency\CalculateEfficiency.csproj", "{6ECE86A3-BB9D-47DA-9042-B5013DBE10DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECE86A3-BB9D-47DA-9042-B5013DBE10DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECE86A3-BB9D-47DA-9042-B5013DBE10DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECE86A3-BB9D-47DA-9042-B5013DBE10DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECE86A3-BB9D-47DA-9042-B5013DBE10DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4DC1847-67E3-4EA5-8269-BE79B4D90E87}
+	EndGlobalSection
+EndGlobal

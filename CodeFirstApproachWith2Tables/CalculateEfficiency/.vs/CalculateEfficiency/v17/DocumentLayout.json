@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\CalculateEfficiency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE86A3-BB9D-47DA-9042-B5013DBE10DB}|CalculateEfficiency\\CalculateEfficiency.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\calculateefficiency\\calculateefficiency\\progarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECE86A3-BB9D-47DA-9042-B5013DBE10DB}|CalculateEfficiency\\CalculateEfficiency.csproj|solutionrelative:calculateefficiency\\progarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE86A3-BB9D-47DA-9042-B5013DBE10DB}|CalculateEfficiency\\CalculateEfficiency.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\calculateefficiency\\calculateefficiency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECE86A3-BB9D-47DA-9042-B5013DBE10DB}|CalculateEfficiency\\CalculateEfficiency.csproj|solutionrelative:calculateefficiency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "progarm.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\CalculateEfficiency\\CalculateEfficiency\\progarm.cs",
+              "RelativeDocumentMoniker": "CalculateEfficiency\\progarm.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\CalculateEfficiency\\CalculateEfficiency\\progarm.cs",
+              "RelativeToolTip": "CalculateEfficiency\\progarm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:06:18.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\CalculateEfficiency\\CalculateEfficiency\\Program.cs",
+              "RelativeDocumentMoniker": "CalculateEfficiency\\Program.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\CalculateEfficiency\\CalculateEfficiency\\Program.cs",
+              "RelativeToolTip": "CalculateEfficiency\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:43:34.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.AssemblyInfoInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.AssemblyInfo.cs
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.csproj.CoreCompileInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\bin\Debug\net8.0\Reverse Number.exe
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\bin\Debug\net8.0\Reverse Number.deps.json
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\bin\Debug\net8.0\Reverse Number.runtimeconfig.json
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\bin\Debug\net8.0\Reverse Number.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\bin\Debug\net8.0\Reverse Number.pdb
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\obj\Debug\net8.0\refint\Reverse Number.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.pdb
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.genruntimeconfig.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Reverse Number\Reverse Number\obj\Debug\net8.0\ref\Reverse Number.dll

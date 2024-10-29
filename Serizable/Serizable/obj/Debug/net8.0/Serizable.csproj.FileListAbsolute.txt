@@ -1,0 +1,14 @@
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\obj\Debug\net8.0\Serizable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\obj\Debug\net8.0\Serizable.AssemblyInfoInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\obj\Debug\net8.0\Serizable.AssemblyInfo.cs
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\obj\Debug\net8.0\Serizable.csproj.CoreCompileInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\bin\Debug\net8.0\Serizable.exe
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\bin\Debug\net8.0\Serizable.deps.json
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\bin\Debug\net8.0\Serizable.runtimeconfig.json
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\bin\Debug\net8.0\Serizable.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\bin\Debug\net8.0\Serizable.pdb
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\obj\Debug\net8.0\Serizable.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\obj\Debug\net8.0\refint\Serizable.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\obj\Debug\net8.0\Serizable.pdb
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\obj\Debug\net8.0\Serizable.genruntimeconfig.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Serizable\Serizable\obj\Debug\net8.0\ref\Serizable.dll

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvccodefirstapproach_jaishri\\mvccodefirstapproach_jaishri\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|solutionrelative:mvccodefirstapproach_jaishri\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvccodefirstapproach_jaishri\\mvccodefirstapproach_jaishri\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|solutionrelative:mvccodefirstapproach_jaishri\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvccodefirstapproach_jaishri\\mvccodefirstapproach_jaishri\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|solutionrelative:mvccodefirstapproach_jaishri\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvccodefirstapproach_jaishri\\mvccodefirstapproach_jaishri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|solutionrelative:mvccodefirstapproach_jaishri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvccodefirstapproach_jaishri\\mvccodefirstapproach_jaishri\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|solutionrelative:mvccodefirstapproach_jaishri\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvccodefirstapproach_jaishri\\mvccodefirstapproach_jaishri\\migrations\\20241016072803_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|solutionrelative:mvccodefirstapproach_jaishri\\migrations\\20241016072803_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvccodefirstapproach_jaishri\\mvccodefirstapproach_jaishri\\mvccodefirstapproach_jaishri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|solutionrelative:mvccodefirstapproach_jaishri\\mvccodefirstapproach_jaishri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvccodefirstapproach_jaishri\\mvccodefirstapproach_jaishri\\migrations\\20241016091653_emplinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1F5099-B330-4AEA-9002-7B421F877F74}|MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj|solutionrelative:mvccodefirstapproach_jaishri\\migrations\\20241016091653_emplinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Program.cs",
+              "RelativeDocumentMoniker": "MvcCodeFIrstApproach_jaishri\\Program.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Program.cs",
+              "RelativeToolTip": "MvcCodeFIrstApproach_jaishri\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAA4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:13:16.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "MvcCodeFIrstApproach_jaishri\\Models\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "MvcCodeFIrstApproach_jaishri\\Models\\EmployeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:21:03.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "MvcCodeFIrstApproach_jaishri\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "MvcCodeFIrstApproach_jaishri\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:10:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcCodeFIrstApproach_jaishri\\appsettings.json",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\appsettings.json",
+              "RelativeToolTip": "MvcCodeFIrstApproach_jaishri\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T06:30:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241016091653_EmplInit.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Migrations\\20241016091653_EmplInit.cs",
+              "RelativeDocumentMoniker": "MvcCodeFIrstApproach_jaishri\\Migrations\\20241016091653_EmplInit.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Migrations\\20241016091653_EmplInit.cs",
+              "RelativeToolTip": "MvcCodeFIrstApproach_jaishri\\Migrations\\20241016091653_EmplInit.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:16:53.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Controllers\\EmployeeModelsController.cs",
+              "RelativeDocumentMoniker": "MvcCodeFIrstApproach_jaishri\\Controllers\\EmployeeModelsController.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Controllers\\EmployeeModelsController.cs",
+              "RelativeToolTip": "MvcCodeFIrstApproach_jaishri\\Controllers\\EmployeeModelsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:24:59.198Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241016072803_EmpInit.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Migrations\\20241016072803_EmpInit.cs",
+              "RelativeDocumentMoniker": "MvcCodeFIrstApproach_jaishri\\Migrations\\20241016072803_EmpInit.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\Migrations\\20241016072803_EmpInit.cs",
+              "RelativeToolTip": "MvcCodeFIrstApproach_jaishri\\Migrations\\20241016072803_EmpInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:28:04.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MvcCodeFIrstApproach_jaishri.csproj",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj",
+              "RelativeDocumentMoniker": "MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj",
+              "RelativeToolTip": "MvcCodeFIrstApproach_jaishri\\MvcCodeFIrstApproach_jaishri.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T05:24:08.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

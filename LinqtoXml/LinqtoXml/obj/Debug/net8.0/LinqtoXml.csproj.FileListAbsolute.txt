@@ -1,0 +1,14 @@
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\bin\Debug\net8.0\LinqtoXml.exe
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\bin\Debug\net8.0\LinqtoXml.deps.json
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\bin\Debug\net8.0\LinqtoXml.runtimeconfig.json
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\bin\Debug\net8.0\LinqtoXml.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\bin\Debug\net8.0\LinqtoXml.pdb
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\obj\Debug\net8.0\LinqtoXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\obj\Debug\net8.0\LinqtoXml.AssemblyInfoInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\obj\Debug\net8.0\LinqtoXml.AssemblyInfo.cs
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\obj\Debug\net8.0\LinqtoXml.csproj.CoreCompileInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\obj\Debug\net8.0\LinqtoXml.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\obj\Debug\net8.0\refint\LinqtoXml.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\obj\Debug\net8.0\LinqtoXml.pdb
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\obj\Debug\net8.0\LinqtoXml.genruntimeconfig.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\LinqtoXml\LinqtoXml\obj\Debug\net8.0\ref\LinqtoXml.dll

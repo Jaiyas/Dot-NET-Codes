@@ -1,0 +1,14 @@
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\obj\Debug\net8.0\CalculateEfficiency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\obj\Debug\net8.0\CalculateEfficiency.AssemblyInfoInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\obj\Debug\net8.0\CalculateEfficiency.AssemblyInfo.cs
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\obj\Debug\net8.0\CalculateEfficiency.csproj.CoreCompileInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\bin\Debug\net8.0\CalculateEfficiency.exe
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\bin\Debug\net8.0\CalculateEfficiency.deps.json
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\bin\Debug\net8.0\CalculateEfficiency.runtimeconfig.json
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\bin\Debug\net8.0\CalculateEfficiency.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\bin\Debug\net8.0\CalculateEfficiency.pdb
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\obj\Debug\net8.0\CalculateEfficiency.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\obj\Debug\net8.0\refint\CalculateEfficiency.dll
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\obj\Debug\net8.0\CalculateEfficiency.pdb
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\obj\Debug\net8.0\CalculateEfficiency.genruntimeconfig.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\CalculateEfficiency\CalculateEfficiency\obj\Debug\net8.0\ref\CalculateEfficiency.dll

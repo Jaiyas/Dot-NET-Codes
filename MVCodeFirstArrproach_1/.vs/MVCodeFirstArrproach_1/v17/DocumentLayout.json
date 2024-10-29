@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\migrations\\20241017041036_procatinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\migrations\\20241017041036_procatinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\mvcodefirstarrproach_1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\mvcodefirstarrproach_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\migrations\\20241017041001_pcinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\migrations\\20241017041001_pcinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\mvcodefirstarrproach_1\\mvcodefirstarrproach_1\\migrations\\20241017040852_productcategoryinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747C014-1B83-4533-8A35-264BF87E211C}|MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj|solutionrelative:mvcodefirstarrproach_1\\migrations\\20241017040852_productcategoryinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Models\\Category.cs",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:45:28.751Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241017041036_procatInit.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Migrations\\20241017041036_procatInit.cs",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\Migrations\\20241017041036_procatInit.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Migrations\\20241017041036_procatInit.cs",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\Migrations\\20241017041036_procatInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:10:36.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241017041001_pcInit.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Migrations\\20241017041001_pcInit.cs",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\Migrations\\20241017041001_pcInit.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Migrations\\20241017041001_pcInit.cs",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\Migrations\\20241017041001_pcInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:10:01.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\appsettings.json",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\appsettings.json",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T11:11:54.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241017040852_productcategoryInit.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Migrations\\20241017040852_productcategoryInit.cs",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\Migrations\\20241017040852_productcategoryInit.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Migrations\\20241017040852_productcategoryInit.cs",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\Migrations\\20241017040852_productcategoryInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:08:52.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:07:36.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:06:47.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MVCodeFirstArrproach_1.csproj",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T13:33:11.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Models\\Product.cs",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:38:57.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MVCodeFirstArrproach_1",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T13:32:47.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Program.cs",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\Program.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Program.cs",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:14:25.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "MVCodeFirstArrproach_1\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\MVCodeFirstArrproach_1\\MVCodeFirstArrproach_1\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "MVCodeFirstArrproach_1\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:54:33.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

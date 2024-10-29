@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\Reverse Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BAE1C2-07E2-4E90-B45C-96185871F68E}|Reverse Number\\Reverse Number.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\reverse number\\reverse number\\driverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BAE1C2-07E2-4E90-B45C-96185871F68E}|Reverse Number\\Reverse Number.csproj|solutionrelative:reverse number\\driverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BAE1C2-07E2-4E90-B45C-96185871F68E}|Reverse Number\\Reverse Number.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\reverse number\\reverse number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BAE1C2-07E2-4E90-B45C-96185871F68E}|Reverse Number\\Reverse Number.csproj|solutionrelative:reverse number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BAE1C2-07E2-4E90-B45C-96185871F68E}|Reverse Number\\Reverse Number.csproj|c:\\users\\jaishri.vk\\documents\\batch_7 _jaiyashri k\\reverse number\\reverse number\\reverse number.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5BAE1C2-07E2-4E90-B45C-96185871F68E}|Reverse Number\\Reverse Number.csproj|solutionrelative:reverse number\\reverse number.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Driverclass.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\Reverse Number\\Reverse Number\\Driverclass.cs",
+              "RelativeDocumentMoniker": "Reverse Number\\Driverclass.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\Reverse Number\\Reverse Number\\Driverclass.cs",
+              "RelativeToolTip": "Reverse Number\\Driverclass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:38:05.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reverse Number",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\Reverse Number\\Reverse Number\\Reverse Number.csproj",
+              "RelativeDocumentMoniker": "Reverse Number\\Reverse Number.csproj",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\Reverse Number\\Reverse Number\\Reverse Number.csproj",
+              "RelativeToolTip": "Reverse Number\\Reverse Number.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T06:37:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\Reverse Number\\Reverse Number\\Program.cs",
+              "RelativeDocumentMoniker": "Reverse Number\\Program.cs",
+              "ToolTip": "C:\\Users\\JAISHRI.VK\\Documents\\BATCH_7 _JAIYASHRI K\\Reverse Number\\Reverse Number\\Program.cs",
+              "RelativeToolTip": "Reverse Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:29:18.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

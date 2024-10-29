@@ -1,0 +1,4 @@
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Count of Elements\Count of Elements\obj\Debug\net8.0\Count of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Count of Elements\Count of Elements\obj\Debug\net8.0\Count of Elements.AssemblyInfoInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Count of Elements\Count of Elements\obj\Debug\net8.0\Count of Elements.AssemblyInfo.cs
+C:\Users\JAISHRI.VK\Documents\BATCH_7 _JAIYASHRI K\Count of Elements\Count of Elements\obj\Debug\net8.0\Count of Elements.csproj.CoreCompileInputs.cache
